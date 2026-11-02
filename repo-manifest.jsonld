@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-smart-selects/commit/30e0149d4cdf202d310aa80b8dc2f4e5f201106b",
       "git:hexsha": "30e0149d4cdf202d310aa80b8dc2f4e5f201106b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/django-smart-selects/commit/db74be0c3c011bfa86fa05cfdc21854e602cdffa",
