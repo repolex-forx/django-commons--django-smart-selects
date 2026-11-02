@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-smart-selects",
+  "versions": [
+    {
+      "commit": "30e0149d4cdf202d310aa80b8dc2f4e5f201106b",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:23:03.590227+00:00"
+    }
+  ]
+}
